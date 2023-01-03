@@ -7,6 +7,8 @@
 #
 dev-values.yaml
 mastodon-*.tgz
+*.tgz
+
 
 
 # Boilerplate .helmignore from `helm create mastodon`
